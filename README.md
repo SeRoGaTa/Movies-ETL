@@ -1,4 +1,4 @@
 # Movies-ETL
 
-## This reository has files from the Wikipedia site and also from  MovieLens where we join them and clean the data in a ETL process.
-After the ETL process you might see some pictures in the resource folder of how many rows we end up in the two SQL tables from postgres.
+## This repository has csv and json files from the Wikipedia site and also from MovieLens which we join and clean from a very unstructured data into a two structured tables after the ETL process.
+After the ETL process you might see some pictures in the "Resource" folder on this same repository of how many rows we end up in the two SQL tables from postgres.
